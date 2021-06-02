@@ -10,7 +10,7 @@ So, how to design and build a food recommender system that can work effectively 
 ### Foodcy's APK
 [Here is link for download Foodcy's APK](https://drive.google.com/file/d/1Y9KLXDjkWHMkuvo1tOwc5xbatpnZvCvI/view?usp=sharing "Click here!")
 
-### Contributor
+### Contributors
 - [Dessy Rizky Amalia - A2462304](https://github.com/dessyrizkya)
 - [Dimas Ananda - M0111147](https://github.com/dimasananda0501)
 - [Livia Salsabilla - C2462308](https://github.com/liviabcde)
