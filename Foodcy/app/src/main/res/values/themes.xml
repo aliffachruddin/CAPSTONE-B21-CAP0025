@@ -1,0 +1,138 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Foodcy" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/yellow2</item>
+        <item name="colorPrimaryVariant">@color/yellow3</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/brown</item>
+        <item name="colorSecondaryVariant">@color/yellow2</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Customize your theme here. -->
+        <item name="android:actionMenuTextColor">@color/white</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="Theme.Foodcy.Default">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/yellow3</item>
+    </style>
+
+    <style name="Theme.Foodcy.Yellow">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/yellow</item>
+    </style>
+
+    <style name="Theme.Foodcy.Yellow2">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/yellow2</item>
+    </style>
+
+    <style name="FontCarousel">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="FontCarousel.Regular">
+        <item name="fontFamily">@font/quicksand</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="FontCarousel.Bold">
+        <item name="fontFamily">@font/monstserrat</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/brown</item>
+    </style>
+
+    <style name="FontMenu">
+        <item name="fontFamily">@font/monstserrat</item>
+    </style>
+
+    <style name="FontRegister">
+        <item name="fontFamily">@font/monstserrat</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="FontRegisterButton">
+        <item name="fontFamily">@font/quicksand</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="FontRegular">
+        <item name="fontFamily">@font/quicksand</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="FontRegular.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="TextTable">
+        <item name="fontFamily">@font/quicksand</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="TextTable.Field">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">18dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextTable.Value">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="FontBottomNavigation">
+        <item name="fontFamily">@font/monstserrat</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/yellow2</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Theme.Foodcy.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Foodcy.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="fontFamily">@font/monstserrat</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/yellow2</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Theme.Foodcy.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="backgroundColor">@color/yellow2</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Divider">
+        <item name="android:background">?android:attr/listDivider</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="Divider.Horizontal" parent="Divider">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+
+    </style>
+
+    <style name="Divider.Vertical" parent="Divider">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+</resources>

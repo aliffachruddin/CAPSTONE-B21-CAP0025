@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Foodcy</string>
+    <string name="vector">Vector</string>
+    <string name="logo">Logo</string>
+    <string name="illustration">Illustration</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+
+    <string name="recommendation">Recommendation</string>
+    <string name="favorite">Favorite</string>
+    <string name="foodcy_logo">Foodcy Logo</string>
+
+    <string name="create_your_account">Create your account</string>
+    <string name="log_in">Log in</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="log_out">Log out</string>
+    <string name="verification_message">Your account hasn\'t been verified yet,</string>
+    <string name="verify_now">Verify now</string>
+    <string name="verify_success_message">Please check your email and login again</string>
+
+
+    <string name="set_reminder">Set Reminder</string>
+    <string name="title_reminder" translatable="false">Foodcy Reminder</string>
+    <string name="information">Ketika kamu mengaktifkannya, kamu akan mendapatkan notifikasi pada pukul 9 pagi setiap hari untuk kembali ke aplikasi!</string>
+    <string name="notification">Cari temanmu sekarang~</string>
+    <string name="toast_active">Pengingat diaktifkan</string>
+    <string name="toast_nonactive">Pengingat dinonaktifkan</string>
+
+
+    <string name="take_a_quiz">Take the quiz</string>
+    <string name="retake_the_quiz">Retake the quiz</string>
+    <string name="type_here">Type here</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="progress_value">%d/%d</string>
+
+    <string name="name">Name</string>
+    <string name="edit">Edit</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="image_default">https://i.picsum.photos/id/102/4320/3240.jpg?hmac=ico2KysoswVG8E8r550V_afIWN963F6ygTVrqHeHeRc</string>
+    <string name="profile_updated">Profile Updated</string>
+    <string name="your_quiz_answer">Your Quiz Answer:</string>
+    <string name="quiz_null_message">You have never submitted the quiz</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="food">food</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="link_recipe">Link Recipe</string>
+    <string name="see_the_recipes">See the recipes</string>
+    <string name="preparation_time">Preparation Time</string>
+    <string name="cook_time">Cook Time</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="calories">Calories</string>
+    <string name="diet">Diet</string>
+    <string name="diabetes_friendly">Diabetes Friendly</string>
+    <string name="flavor">Flavor</string>
+    <string name="course">Course</string>
+    <string name="halal">Halal</string>
+    <string name="value_minutes">%s minutes</string>
+    <string name="value_calories">%s Kcal</string>
+    <string name="link_recipe_values">https://cookpad.com/us/search/%s</string>
+    <string name="null_image">Null</string>
+    <string name="next_btn"><![CDATA[>]]></string>
+    <string name="favorites">Favorites</string>
+    <string name="view_more_fav">Check Favorite Tab to View More</string>
+
+    <string name="hi">Hi, %s</string>
+    <string name="download_firebase">Downloading Data From Cloud If Exist</string>
+    <string name="set_exact">Set Exact</string>
+    <string name="set_repetitive_exact">Set Repetitive Exact</string>
+    <string name="calculating">Calculating..\n Please check the recommendation tab in homepage after this one end</string>
+    <string name="sync_alert">Click synchronize now to download yout data from cloud</string>
+    <string name="synchronize">Synchronize</string>
+    <string name="sync_msg">You can synchronize your cloud data by click Synchronize in setting.</string>
+</resources>
