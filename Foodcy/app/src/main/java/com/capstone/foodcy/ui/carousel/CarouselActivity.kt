@@ -50,7 +50,6 @@ class CarouselActivity : AppCompatActivity() {
 
     override fun onStart() {
         super.onStart()
-        auth.signOut()
         viewModel.getIsLogin(this)
     }
 }
