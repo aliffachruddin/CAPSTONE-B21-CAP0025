@@ -8,7 +8,7 @@ At this time, the need for an application that can recommend food and display fo
 So, how to design and build a food recommender system that can work effectively in showing food choices based on the user's nutritional needs? To answer that, we created the food recommender system for selecting meals based on user nutrition's needs.
 
 ### Foodcy's APK
-[Here is link for download Foodcy's APK](https://drive.google.com/file/d/1Y9KLXDjkWHMkuvo1tOwc5xbatpnZvCvI/view?usp=sharing "Click here!")
+[Here is link for download Foodcy's APK](https://drive.google.com/file/d/1DaLStVZ0vhab6h-khyv37c4IxAF_-dVH/view?usp=sharing "Click here!")
 
 ### Contributors
 - [Dessy Rizky Amalia - A2462304](https://github.com/dessyrizkya)
