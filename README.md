@@ -7,6 +7,20 @@ At this time, the need for an application that can recommend food and display fo
 
 So, how to design and build a food recommender system that can work effectively in showing food choices based on the user's nutritional needs? To answer that, we created the food recommender system for selecting meals based on user nutrition's needs.
 
+### Building The Project
+- So, for the building of the foodcy application, there are several stages that we do from each learning path (Mobile Development, Machine Learning, and Cloud Computing).
+- In the first stage :
+  - Machine Learning : Determine the fixed dataset and its method, then preprocess data, and explore the model using Jupyter Notebook.
+  - Mobile Development : Performs assets preparation and layouting such as fragment, home, recommendation, favorite and carousel.
+  - Cloud Computing : Preparing projects in GCP, managing IAM, preparing projects in Firebase and managing them, and providing API to the cloud platform so that it can be integrated between GCP and Firebase
+
+- For the second stage :
+  - Machine Learning : First Stage's Prototyping ( Improving accuracy and Satisficing Metrics)
+  - Mobile Development : Carry out System Development such as registration, login system, logout settings, system profile, quiz system, recommendation system, food system details, favorite system, searching system, and finally the reminder system.
+
+- For the third stage : 
+  - Cloud Computing : After Machine Learning and Mobile Development have finished developing foodcy, Cloud Computing deploys foodcy to the Google Cloud Platform using the App Engine
+
 ### Foodcy's APK
 [Here is link for download Foodcy's APK](https://drive.google.com/file/d/1DaLStVZ0vhab6h-khyv37c4IxAF_-dVH/view?usp=sharing "Click here!")
 
