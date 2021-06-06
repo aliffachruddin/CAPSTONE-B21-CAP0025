@@ -1,0 +1,8 @@
+# [START gae_flex_quickstart_yaml]
+runtime: java
+env: flex
+
+handlers:
+- url: /.*
+  script: this field is required, but ignored
+# [END gae_flex_quickstart_yaml]
