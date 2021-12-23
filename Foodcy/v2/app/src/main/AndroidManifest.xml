@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.capstone.foodcy">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@mipmap/ic_foodcy"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_foodcy_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Foodcy.Default"
+        android:name=".utils.App"
+        tools:ignore="AllowBackup">
+        <activity android:name=".ui.setting.sync.SyncActivity"/>
+        <activity android:name=".ui.detail.DetailFoodActivity" />
+        <activity android:name=".ui.quiz.ResultActivity" />
+
+        <receiver
+            android:name=".receiver.AlarmReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name=".ui.quiz.QuizActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Foodcy.Yellow" />
+        <activity android:name=".ui.login.LoginActivity" />
+        <activity android:name=".ui.register.RegisterActivity" />
+        <activity android:name=".ui.setting.setreminder.SetReminderActivity" />
+        <activity
+            android:name=".ui.carousel.CarouselActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.Foodcy.Yellow2" />
+        <activity
+            android:name=".ui.splash.SplashScreen"
+            android:theme="@style/Theme.Foodcy.Yellow">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.main.MainActivity"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden" />
+    </application>
+
+</manifest>

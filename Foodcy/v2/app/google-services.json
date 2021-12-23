@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299805244479",
+    "firebase_url": "https://marine-duality-313012-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "marine-duality-313012",
+    "storage_bucket": "marine-duality-313012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299805244479:android:d8ce5ed67471a050870c8a",
+        "android_client_info": {
+          "package_name": "com.capstone.foodcy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299805244479-i4k4n8ed24tm84c5tbekn4623q6n6803.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNPkU8EDpzNhOHwvYpAc462N34QDT-clA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299805244479-i4k4n8ed24tm84c5tbekn4623q6n6803.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
