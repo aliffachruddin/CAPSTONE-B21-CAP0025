@@ -22,7 +22,7 @@ So, how to design and build a food recommender system that can work effectively 
   - Cloud Computing : After Machine Learning and Mobile Development have finished developing foodcy, Cloud Computing deploys foodcy to the Google Cloud Platform using the App Engine
 
 ### Foodcy's APK
-[Here is link for download Foodcy's APK](https://drive.google.com/file/d/1DaLStVZ0vhab6h-khyv37c4IxAF_-dVH/view?usp=sharing "Click here!")
+[Here is link for download Foodcy's APK](https://drive.google.com/file/d/1vPjncm1sCBfXnieT389H5UUoArBrFu8f/view?usp=sharing "Click here!")
 
 ### Contributors
 - [Dessy Rizky Amalia - A2462304](https://github.com/dessyrizkya)
